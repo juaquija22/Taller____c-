@@ -12,3 +12,4 @@ C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\refint\Taller____c#.dll
 C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.pdb
 C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.genruntimeconfig.cache
 C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\ref\Taller____c#.dll
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.sourcelink.json
