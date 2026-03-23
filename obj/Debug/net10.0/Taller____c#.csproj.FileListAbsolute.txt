@@ -1,0 +1,14 @@
+C:\Users\juaqu\Taller____c#\bin\Debug\net10.0\Taller____c#.exe
+C:\Users\juaqu\Taller____c#\bin\Debug\net10.0\Taller____c#.deps.json
+C:\Users\juaqu\Taller____c#\bin\Debug\net10.0\Taller____c#.runtimeconfig.json
+C:\Users\juaqu\Taller____c#\bin\Debug\net10.0\Taller____c#.dll
+C:\Users\juaqu\Taller____c#\bin\Debug\net10.0\Taller____c#.pdb
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.AssemblyInfoInputs.cache
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.AssemblyInfo.cs
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.csproj.CoreCompileInputs.cache
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.dll
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\refint\Taller____c#.dll
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.pdb
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\Taller____c#.genruntimeconfig.cache
+C:\Users\juaqu\Taller____c#\obj\Debug\net10.0\ref\Taller____c#.dll
